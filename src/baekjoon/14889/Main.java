@@ -1,4 +1,3 @@
-package baekjoon.ps14889;
 
 import java.io.BufferedReader;
 import java.io.IOException;
