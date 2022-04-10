@@ -12,3 +12,9 @@
 
 # Unignore all dirs
 !*/
+
+# IntelliJ
+.idea
+
+# Class File
+*.class
