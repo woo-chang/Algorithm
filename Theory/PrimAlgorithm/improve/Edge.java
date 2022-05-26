@@ -1,8 +1,6 @@
 package improve;
 
-import org.w3c.dom.NodeList;
-
-public class Edge implements Comparable<Edge> {
+class Edge implements Comparable<Edge> {
     public String node;
     public int weight;
 

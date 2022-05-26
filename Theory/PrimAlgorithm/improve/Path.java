@@ -1,6 +1,6 @@
 package improve;
 
-public class Path {
+class Path {
     public String node1;
     public String node2;
     public int weight;
