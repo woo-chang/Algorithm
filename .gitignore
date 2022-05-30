@@ -15,6 +15,7 @@
 
 # IntelliJ
 .idea
+*.iml
 
 # Class File
 *.class
